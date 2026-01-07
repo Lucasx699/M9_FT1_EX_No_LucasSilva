@@ -1,5 +1,5 @@
 
-print=input("Qual o seu nome : ")
-print=input("Qual a sua morada :")
-print=input("Qual a sua altura : ")
+nome=input("Qual o seu nome : ")
+morada=input("Qual a sua morada :")
+altura=input("Qual a sua altura : ")
 
