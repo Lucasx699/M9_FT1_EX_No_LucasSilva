@@ -8,3 +8,10 @@ print(nome)
 print(idade)
 print(altura)
 print(numero)
+
+
+
+print(type(nome))
+print(type(idade ))
+print(type(altura))
+print(type(numero))
